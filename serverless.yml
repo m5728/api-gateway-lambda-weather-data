@@ -1,0 +1,12 @@
+service: weather-api
+
+provider:
+  name: aws
+
+functions:
+  getWeather:
+    handler: serverless-api/index.mjs
+    events:
+      apiGateway:
+        path: / # Root path for API Gateway
+        method: GET
