@@ -1,4 +1,4 @@
-Serverless Weather API
+## Serverless Weather API
 
 Description:
 
@@ -6,7 +6,7 @@ A serverless API built with AWS Lambda and API Gateway to fetch weather data fro
 
 Technologies:
 
-Node.js
-AWS Lambda
-Amazon API Gateway
-OpenWeatherMap API
+* Node.js
+* AWS Lambda
+* Amazon API Gateway
+* OpenWeatherMap API
